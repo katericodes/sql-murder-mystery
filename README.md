@@ -17,7 +17,7 @@ A crime has taken place and the detective needs your help. The detective gave yo
 <span class="image main"><img src="https://mystery.knightlab.com/schema.png" alt="" /></span>
 
 
-## The Result
+## The Results
 
 When first looking for the initial crime report that happened on January 15, 2018 in SQL City, I found the following description: 
 > Security footage shows that there were 2 witnesses. The first witness lives at the last house on "Northwestern Dr". The second witness, named Annabel, lives somewhere on "Franklin Ave".
