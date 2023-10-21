@@ -39,6 +39,6 @@ After hearing Jeremy Bowers's interview, I was looking to find the mastermind wh
 * The mastermind is a woman with red hair.
 * The woman's height is between 5'5" (65") or 5'7" (67").
 * The woman drives a Tesla Model S.
-* The woman attended the SQL Symphony 3 times in Decemeber 2017.
+* The woman attended the SQL Symphony Concert 3 times in Decemeber 2017.
 
 * Finally, the mastermind who was behind the murder was determiend to be Miranda Priestly as she fit all the criteria described by the killer.
